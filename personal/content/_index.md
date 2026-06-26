@@ -11,7 +11,7 @@ of Warwick. The 26/27 academic year will be my Masters year. I am eager to pursu
 
 I plan to use this website to document my interests. This will mainly be academicly oriented, but I may post about my other hobbies as well. 
 
-## Research interests
+### Research interests
 
 I am mainly focussed on pursuing Cosmology-related projects. Currently, I work on both an observational, data-driven project using the Cosmic Infrared Background whilst separately laying the groundwork for a more theoretical project in Cosmological Perturbation Theory.
 
