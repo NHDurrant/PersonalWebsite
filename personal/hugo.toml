@@ -24,6 +24,11 @@ title = "Welcome to my Personal Website"
 subtitle = "Mathematics and Physics Student at the University of Warwick"
 avatarURL = "/images/profile.jpg"
 
+[params.social]
+  github = "@nattyduzza" 
+  email = "nathan.durrant@warwick.ac.uk"
+  linkedin = "nathan-h-durrant"
+
 [menu]
   [[menu.main]]
     weight = 1
@@ -52,3 +57,8 @@ avatarURL = "/images/profile.jpg"
     name = "Miscellaneous"
     url = "/misc/"
     title = ""
+  [[menu.main]]
+    weight = 6 
+    identifier = "cv"
+    name = "CV"
+    url = "Curriculum_Vitae-26-06-26.pdf"
