@@ -1,6 +1,6 @@
 baseURL = 'https://nhdurrant.com/'
 
-theme = "LoveIt"
+theme = "CustomLoveIt"
 
 
 title = "Nathan Durrant"
