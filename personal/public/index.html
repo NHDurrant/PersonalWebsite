@@ -1,24 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-GB">
     <head>
-	<meta name="generator" content="Hugo 0.134.2"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta name="generator" content="Hugo 0.163.3"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="robots" content="noodp" />
         <title>Nathan Durrant</title><meta name="Description" content="This is my cool site"><meta property="og:url" content="http://localhost:1313/">
-  <meta property="og:site_name" content="Nathan Durrant">
-  <meta property="og:title" content="Nathan Durrant">
-  <meta property="og:description" content="About Me Hi, I’m Nathan. I am currently studying a MathPhys degree at the University of Warwick.
-I plan to use this website to document my interests. This will mainly be academicly oriented, but I post about my other hobbies as well.
-Cosmology is my current area of most interest and I am pursuing modules that will help further my knowledge of this area of Physics. I am also undertaking a research project in LSS Cosmology at the University of Oxford during this summer (2025). I will post updates on this here.">
-  <meta property="og:locale" content="en">
-  <meta property="og:type" content="website">
+	<meta property="og:site_name" content="Nathan Durrant">
+	<meta property="og:title" content="Nathan Durrant">
+	<meta property="og:description" content="About Me Hi, I’m Nathan. I am currently studying a MathPhys degree at the University of Warwick. The 26/27 academic year will be my Masters year. I am eager to pursue a PhD once I have completed my course.
+I plan to use this website to document my interests. This will mainly be academicly oriented, but I may post about my other hobbies as well.
+Research interests I am mainly focussed on pursuing Cosmology-related projects. Currently, I work on both an observational, data-driven project using the Cosmic Infrared Background whilst separately laying the groundwork for a more theoretical project in Cosmological Perturbation Theory.">
+	<meta property="og:locale" content="en_GB">
+	<meta property="og:type" content="website">
 
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Nathan Durrant">
-  <meta name="twitter:description" content="About Me Hi, I’m Nathan. I am currently studying a MathPhys degree at the University of Warwick.
-I plan to use this website to document my interests. This will mainly be academicly oriented, but I post about my other hobbies as well.
-Cosmology is my current area of most interest and I am pursuing modules that will help further my knowledge of this area of Physics. I am also undertaking a research project in LSS Cosmology at the University of Oxford during this summer (2025). I will post updates on this here.">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="Nathan Durrant">
+	<meta name="twitter:description" content="About Me Hi, I’m Nathan. I am currently studying a MathPhys degree at the University of Warwick. The 26/27 academic year will be my Masters year. I am eager to pursue a PhD once I have completed my course.
+I plan to use this website to document my interests. This will mainly be academicly oriented, but I may post about my other hobbies as well.
+Research interests I am mainly focussed on pursuing Cosmology-related projects. Currently, I work on both an observational, data-driven project using the Cosmic Infrared Background whilst separately laying the groundwork for a more theoretical project in Cosmological Perturbation Theory.">
 <meta name="application-name" content="My cool site">
 <meta name="apple-mobile-web-app-title" content="My cool site">
 <meta name="referrer" content="no-referrer" /><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
@@ -30,13 +30,24 @@ Cosmology is my current area of most interest and I am pursuing modules that wil
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
-        "url": "http:\/\/localhost:1313\/","inLanguage": "en","author": {
+        "url": "http:\/\/localhost:1313\/","inLanguage": "en-GB","author": {
                 "@type": "Person",
                 "name": "xxxx"
             },"description": "This is my cool site","name": "Nathan Durrant"
     }
     </script></head>
-    <body data-header-desktop="fixed" data-header-mobile="auto"><script>(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+    <body data-header-desktop="fixed" data-header-mobile="auto"><script>
+          const query = window.matchMedia('(prefers-color-scheme: dark)');
+          function applyTheme() {
+            let theme = window.localStorage?.getItem('theme') || 'auto';
+            let isDark = theme === 'dark' || (theme === 'auto' && query.matches);
+            document.body.setAttribute('theme', isDark? 'dark' : 'light');
+            document.body.setAttribute('cfg-theme', theme);
+          }
+
+          applyTheme();
+          query.addEventListener('change', applyTheme);
+        </script>
 
         <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
     <div class="header-wrapper">
@@ -45,7 +56,7 @@ Cosmology is my current area of most interest and I am pursuing modules that wil
         </div>
         <div class="menu">
             <div class="menu-inner"><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
-                    <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                    <i class="fas fa-adjust" aria-hidden="true"></i>
                 </a></div>
         </div>
     </div>
@@ -60,7 +71,7 @@ Cosmology is my current area of most interest and I am pursuing modules that wil
             </div>
         </div>
         <div class="menu" id="menu-mobile"><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
-                <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                <i class="fas fa-adjust" aria-hidden="true"></i>
             </a></div>
     </div>
 </header><main class="main">
@@ -75,9 +86,10 @@ Cosmology is my current area of most interest and I am pursuing modules that wil
 <div class="single">
                 <div class="content" id="content"><h1 id="about-me">About Me</h1>
 <p>Hi, I&rsquo;m Nathan. I am currently studying a MathPhys degree at the University
-of Warwick.</p>
-<p>I plan to use this website to document my interests. This will mainly be academicly oriented, but I post about my other hobbies as well.</p>
-<p>Cosmology is my current area of most interest and I am pursuing modules that will help further my knowledge of this area of Physics. I am also undertaking a research project in LSS Cosmology at the University of Oxford during this summer (2025). I will post updates on this here.</p>
+of Warwick. The 26/27 academic year will be my Masters year. I am eager to pursue a PhD once I have completed my course.</p>
+<p>I plan to use this website to document my interests. This will mainly be academicly oriented, but I may post about my other hobbies as well.</p>
+<h2 id="research-interests">Research interests</h2>
+<p>I am mainly focussed on pursuing Cosmology-related projects. Currently, I work on both an observational, data-driven project using the Cosmic Infrared Background whilst separately laying the groundwork for a more theoretical project in Cosmological Perturbation Theory.</p>
 <p>Outside of academia my interests include:</p>
 <ul>
 <li>Motorsport (F1, British Superbikes, Sim-racing)</li>
@@ -85,21 +97,30 @@ of Warwick.</p>
 <li>Classical Theatre</li>
 <li>Writing (Both fiction and non-fiction)</li>
 </ul>
+<h3 id="acknowledgements">Acknowledgements</h3>
+<p>I would like to extend my utmost thanks to the following people who have helped me along my way:</p>
+<ul>
+<li>Dr Tom Cornish (Imperial University), for being an amazing summer internship supervisor</li>
+<li>Prof David Alonso (Oxford University), for welcoming me into the Oxford Astrophysics group and giving me my first taste of formal Cosmology</li>
+<li>Dr Siri Chongchitnan (Warwick University), for agreeing to supervise me in my 4th year dissertation project. I can&rsquo;t wait to get started!</li>
+<li>Dr Sara Maluebre (Oxford University), for offering invaluable help and expertise in our work in the CIB</li>
+<li>Finally, to all my friends who I will not to endeavour to name; thank you for everything you do</li>
+</ul>
 </div>
             </div></div></div>
             </main><footer class="footer">
-        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.134.2">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.3.1-DEV"><i class="far fa-kiss-wink-heart fa-fw" aria-hidden="true"></i> LoveIt</a>
-                </div><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright fa-fw" aria-hidden="true"></i><span itemprop="copyrightYear">2022 - 2025</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">xxxx</a></span></div>
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.163.3">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 1.0.0"><i class="far fa-kiss-wink-heart" aria-hidden="true"></i> LoveIt</a>
+                </div><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright" aria-hidden="true"></i><span itemprop="copyrightYear">2022 - 2026</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">xxxx</a></span></div>
         </div>
     </footer></div>
 
         <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
-                <i class="fas fa-arrow-up fa-fw" aria-hidden="true"></i>
+                <i class="fas fa-arrow-up" aria-hidden="true"></i>
             </a>
         </div>
 
         <div id="fixed-buttons-hidden"><a href="#" id="view-comments" class="fixed-button" title="View Comments">
-                <i class="fas fa-comment fa-fw" aria-hidden="true"></i>
+                <i class="fas fa-comment" aria-hidden="true"></i>
             </a>
-        </div><script src="/lib/lazysizes/lazysizes.min.js"></script><script src="/lib/clipboard/clipboard.min.js"></script><script src="/lib/sharer/sharer.min.js"></script><script src="/lib/typeit/index.umd.js"></script><script>window.config={"data":{"id-1":"Mathematics and Physics Student at the University of Warwick"},"typeit":{"cursorChar":"|","cursorSpeed":1000,"data":{"id-1":["id-1"]},"duration":-1,"speed":100}};</script><script src="/js/theme.min.js"></script></body>
+        </div><script src="/lib/lazysizes/lazysizes.min.js"></script><script src="/lib/clipboard/clipboard.min.js"></script><script src="/lib/sharer/sharer.min.js"></script><script src="/lib/typeit/index.umd.js"></script><script>window.config={"data":{"id-1":"Mathematics and Physics Student at the University of Warwick"},"typeit":{"cursorChar":"|","cursorSpeed":1000,"data":{"id-1":["id-1"]},"duration":-1,"speed":100}};</script><script src="/js/theme.js"></script></body>
 </html>

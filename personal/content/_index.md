@@ -1,7 +1,7 @@
 +++
-date = '2025-06-22T21:43:37+01:00'
-draft = false`
-title = 'Nathan Durrant'
+date = "2025-06-22T21:43:37+01:00"
+draft = false
+title = "Nathan Durrant"
 +++
 
 # About Me
@@ -14,8 +14,6 @@ I plan to use this website to document my interests. This will mainly be academi
 ## Research interests
 
 I am mainly focussed on pursuing Cosmology-related projects. Currently, I work on both an observational, data-driven project using the Cosmic Infrared Background whilst separately laying the groundwork for a more theoretical project in Cosmological Perturbation Theory.
-
-
 
 Outside of academia my interests include:
 

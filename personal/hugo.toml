@@ -8,7 +8,7 @@ title = "Nathan Durrant"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 
-languageCode = "en"
+locale = "en-GB"
 
 # language name ["English", "简体中文", "Français", "Polski", ...]
 
