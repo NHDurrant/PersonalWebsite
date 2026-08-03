@@ -2,3 +2,10 @@
 // Custom style
 // 自定义样式
 // ==============================
+
+$admonition-colors-overrides: (
+  note: #ef16ab,      // Make 'note' admonitions blue
+  tip: #28a745,       // Make 'tip' admonitions green
+  warning: #ffc107,   // Make 'warning' admonitions yellow
+  danger: #dc3545
+);

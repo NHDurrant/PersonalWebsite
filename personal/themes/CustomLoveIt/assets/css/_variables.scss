@@ -339,7 +339,7 @@ $code-highlight-color-map-dark: (
 // ========== Admonition ========== //
 // Color list of admonition [$type $color $background-color, ... ]
 $admonition-color-list:
-  "note" #448aff rgba(68, 138, 255, 0.1),
+  "note" #e7760d rgba(164, 165, 167, 0.1),
   "abstract" #00b0ff rgba(0, 176, 255, 0.1),
   "info" #00b8d4 rgba(83, 211, 230, 0.1),
   "todo" #306cd6 rgba(48, 108, 214, 0.1),
@@ -354,3 +354,4 @@ $admonition-color-list:
   "quote" #9e9e9e rgba(159, 159, 159, 0.1),
   !default;
 // ========== Admonition ========== //
+
