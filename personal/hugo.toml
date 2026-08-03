@@ -10,6 +10,11 @@ title = "Nathan Durrant"
 
 locale = "en-GB"
 
+[params.page.math]
+enable = true
+blockLeftDelimiter = "$$"
+blockRightDelimiter = "$$"
+
 # language name ["English", "简体中文", "Français", "Polski", ...]
 
 [params.header]

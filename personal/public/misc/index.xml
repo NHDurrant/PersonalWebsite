@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Miscellaneous on Nathan Durrant</title>
-		<link>http://localhost:62990/misc/</link>
+		<link>http://localhost:63499/misc/</link>
 		<description>Recent content in Miscellaneous on Nathan Durrant</description>
 		<generator>Hugo</generator>
 		<language>en-GB</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 30 Jul 2026 06:34:57 +0100</lastBuildDate>
 		
-			<atom:link href="http://localhost:62990/misc/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:63499/misc/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Theatre Review - The Cherry Orchard, RSC, 2026</title>
-				<link>http://localhost:62990/misc/cherryorchard/</link>
+				<link>http://localhost:63499/misc/cherryorchard/</link>
 				<pubDate>Thu, 30 Jul 2026 06:34:57 +0100</pubDate>
-				<guid>http://localhost:62990/misc/cherryorchard/</guid>
+				<guid>http://localhost:63499/misc/cherryorchard/</guid>
 				<description>&lt;p&gt;Rating: 2.5/5&lt;/p&gt;&#xA;&lt;p&gt;Starring big names, primarily Kenneth Branagh and Helen Hunt, the RSC’s debut of Laura Wade’s new version of Chekhov’s The Cherry Orchard was sure to attract thespians and the general public alike. Indeed, as this RSC season launched I found myself waiting in a queue for an extended period of time only to be left with only the choice of restricted view tickets. Nonetheless, the excitement slowly rose for me to see this play for the first time and to make an out-of-term trip back to Stratford.&lt;/p&gt;</description>
 			</item>
 	</channel>
