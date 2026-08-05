@@ -1,6 +1,7 @@
 baseURL = 'https://nhdurrant.com/'
 
-theme = "CustomLoveIt"
+theme = ["CustomLoveIt"]
+enableInlineShortcodes = true
 
 
 title = "Nathan Durrant"
@@ -67,3 +68,6 @@ avatarURL = "/images/profile.jpg"
     identifier = "cv"
     name = "CV"
     url = "Curriculum_Vitae-03-08-26.pdf"
+
+[markup.goldmark.renderer]
+  unsafe = true

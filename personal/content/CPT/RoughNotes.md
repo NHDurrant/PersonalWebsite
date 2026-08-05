@@ -19,12 +19,12 @@ Feel free to contact me if you find any glaring mistakes.
 
 Time to start the project. I will mainly be following Baumann's Cosmology textbook for now (see the Bibliography section, when uploaded) but my notes may include derivations the textbook doesn't. These are to satisfy my own curiosity and oftentimes may be completely trivial to most.
 
-![](<images/CPT-rough-notes/03-08-26-rough-notes - 1.jpeg>)
-![](<images/CPT-rough-notes/03-08-26-rough-notes - 2.jpeg>)
-![](<images/CPT-rough-notes/03-08-26-rough-notes - 3.jpeg>)
-![](<images/CPT-rough-notes/03-08-26-rough-notes - 4.jpeg>)
-![](<images/CPT-rough-notes/03-08-26-rough-notes - 5.jpeg>)
-![](<images/CPT-rough-notes/03-08-26-rough-notes - 6.jpeg>)
+![](/images/CPT-rough-notes/03-08-26-rough-notes%20-%201.jpeg)
+![](/images/CPT-rough-notes/03-08-26-rough-notes%20-%202.jpeg)
+![](/images/CPT-rough-notes/03-08-26-rough-notes%20-%203.jpeg)
+![](/images/CPT-rough-notes/03-08-26-rough-notes%20-%204.jpeg)
+![](/images/CPT-rough-notes/03-08-26-rough-notes%20-%205.jpeg)
+![](/images/CPT-rough-notes/03-08-26-rough-notes%20-%206.jpeg)
 
 In the picture above, I did not include the proof of the propoisiton. Although it is rather trivial, I will put that here:
 
@@ -35,8 +35,23 @@ $$ d \tilde x^i = dx^i + d\xi^i = dx^i + \partial_\eta \xi^i d\eta + \partial_k 
 Thus, $$ dx^i = d \tilde x^i - \partial_\eta \xi^i d\eta - \partial_k \xi^i d\tilde x^k$$
 $\Box$
 
-![](<images/CPT-rough-notes/03-08-26-rough-notes - 7.jpeg>)
-![](<images/CPT-rough-notes/03-08-26-rough-notes - 8.jpeg>)
+![](/images/CPT-rough-notes/03-08-26-rough-notes%20-%207.jpeg)
+![](/images/CPT-rough-notes/03-08-26-rough-notes%20-%208.jpeg)
 
+
+{{< /admonition >}}
+
+
+{{< admonition type=note title="05/08/26 (iPad + Blackboard, continuing from 03/08/26)" open=false >}}
+
+### 5th August 2026
+
+I chose to continue working through Baumann's textbook, taking the time to derive the effect of coordinate changes on metric perturbations (as in an exercise in the book).
+<iframe src="/PDFs/Rough%20Notes/Baumann%206.1%20-%201.pdf" width="100%" height="600px" style="border: none;" frameborder="0"></iframe>
+
+In the following blackboard working I am aware some of the indexing is lazily done, but I hope you can agree the working is still valid. 
+
+![](/images/CPT-rough-notes/05-08-26-rough-notes%20-%201.jpeg)
+![](/images/CPT-rough-notes/05-08-26-rough-notes%20-%202.jpeg)
 
 {{< /admonition >}}

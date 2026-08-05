@@ -1,3 +1,6 @@
 [submodule "personal/themes/LoveIt"]
 	path = personal/themes/LoveIt
 	url = https://github.com/dillonzq/LoveIt.git
+[submodule "personal/themes/hugo-embed-pdf-shortcode"]
+	path = personal/themes/hugo-embed-pdf-shortcode
+	url = https://github.com/anvithks/hugo-embed-pdf-shortcode.git
