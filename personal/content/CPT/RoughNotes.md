@@ -26,7 +26,7 @@ Time to start the project. I will mainly be following Baumann's Cosmology textbo
 ![](/images/CPT-rough-notes/03-08-26-rough-notes%20-%205.jpeg)
 ![](/images/CPT-rough-notes/03-08-26-rough-notes%20-%206.jpeg)
 
-In the picture above, I did not include the proof of the propoisiton. Although it is rather trivial, I will put that here:
+In the picture above, I did not include the proof of the proposition. Although it is rather trivial, I will put that here:
 
 We have $x^i \to \tilde x^i = x^i + \xi ^i (\eta, \vec{x}=x^k)$
 Taking the total (exterior) derivative we have 
