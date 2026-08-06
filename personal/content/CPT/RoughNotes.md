@@ -55,3 +55,17 @@ In the following blackboard working I am aware some of the indexing is lazily do
 ![](/images/CPT-rough-notes/05-08-26-rough-notes%20-%202.jpeg)
 
 {{< /admonition >}}
+
+{{< admonition type=note title="06/08/26 (iPad + Blackboard + Paper, continuing from 05/08/26)" open=false >}}
+
+### 6th August 2026
+
+Today was not particularly productive, but I managed to move slightly forward with my prereading.
+
+<iframe src="/PDFs/Rough Notes/Baumann 6.1 - 2.pdf" width="100%" height="600px" style="border: none;" frameborder="0"></iframe>
+
+![](/images/CPT-rough-notes/06-08-26-rough-notes%20-%201.jpeg)
+
+<iframe src="/PDFs/Rough Notes/Baumann Exercise 6.3 (Part 1).pdf" width="100%" height="600px" style="border: none;" frameborder="0"></iframe>
+
+{{< /admonition >}}
