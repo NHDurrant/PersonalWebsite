@@ -69,3 +69,13 @@ Today was not particularly productive, but I managed to move slightly forward wi
 <iframe src="/PDFs/Rough Notes/Baumann Exercise 6.3 (Part 1).pdf" width="100%" height="600px" style="border: none;" frameborder="0"></iframe>
 
 {{< /admonition >}}
+
+{{< admonition type=note title="10/08/26 (iPad, continuing from 06/08/26)" open=false >}}
+
+### 10th August 2026
+
+This week is proving to be quite busy, so I doubt I will get much done. I managed to just find enough time today to push slightly further through Baumann.
+
+<iframe src="/PDFs/Rough Notes/Baumann 6.1 - 3.pdf" width="100%" height="600px" style="border: none;" frameborder="0"></iframe>
+
+{{< /admonition >}}
