@@ -79,3 +79,19 @@ This week is proving to be quite busy, so I doubt I will get much done. I manage
 <iframe src="/PDFs/Rough Notes/Baumann 6.1 - 3.pdf" width="100%" height="600px" style="border: none;" frameborder="0"></iframe>
 
 {{< /admonition >}}
+
+{{< admonition type=note title="19/08/26 - 21/08/26 (iPad, continuing from 10/08/26)" open=false >}}
+
+### 19th, 20th, 21st August 2026
+
+I have decided to group these three days together since I am really only getting a few pages written a day. I have been thinking quite a bit of where this project could go once all the groundwork is laid, but we shall have to wait and see.
+
+I hope you can see that I am not yet devoting full hours to this work (I am currently preparing for a conference on my other work with the CIB, as well as travelling quite a bit), but slowly chipping away. I intend to ramp up the number of hours I am working as term approaches.
+
+<iframe src="/PDFs/Rough Notes/Baumann 6.1 - 4.pdf" width="100%" height="600px" style="border: none;" frameborder="0"></iframe>
+
+I also provide a slightly more thorough derivation of the matter evolution equation stated on the 21st:
+
+![](/images/CPT-rough-notes/21-08-26%20rough%20note.jpg)
+
+{{< /admonition >}}
