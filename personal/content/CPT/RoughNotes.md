@@ -49,6 +49,8 @@ $\Box$
 I chose to continue working through Baumann's textbook, taking the time to derive the effect of coordinate changes on metric perturbations (as in an exercise in the book).
 <iframe src="/PDFs/Rough%20Notes/Baumann%206.1%20-%201.pdf" width="100%" height="600px" style="border: none;" frameborder="0"></iframe>
 
+{{< pdf src="/PDFs/Rough%20Notes/Baumann%206.1%20-%201.pdf" >}}
+
 In the following blackboard working I am aware some of the indexing is lazily done, but I hope you can agree the working is still valid. 
 
 ![](/images/CPT-rough-notes/05-08-26-rough-notes%20-%201.jpeg)
@@ -65,6 +67,7 @@ Today was not particularly productive, but I managed to move slightly forward wi
 <iframe src="/PDFs/Rough Notes/Baumann 6.1 - 2.pdf" width="100%" height="600px" style="border: none;" frameborder="0"></iframe>
 
 ![](/images/CPT-rough-notes/06-08-26-rough-notes%20-%201.jpeg)
+
 
 <iframe src="/PDFs/Rough Notes/Baumann Exercise 6.3 (Part 1).pdf" width="100%" height="600px" style="border: none;" frameborder="0"></iframe>
 
