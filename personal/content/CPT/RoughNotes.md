@@ -11,7 +11,7 @@ This page will be used to keep some (as full as possible) documentation of my ha
 
 One will probably *not* be able to follow these notes as in the way you would a usual course, but I hope you may find some help in seeing how I went about the reading for my dissertation. 
 
-Feel free to contact me if you find any glaring mistakes.
+Feel free to contact me if you find any glaring mistakes. It seems that the embedded PDFs are not scrollable on some mobile devices. I am trying to remedy this, but I will also aim to publish a page simply listing all the file hyperlinks for those who want to access them this way.
 
 {{< admonition type=note title="03/08/26 (Blackboard, following Baumann's Cosmology, Chp. 6.1)" open=false >}}
 
@@ -47,7 +47,6 @@ $\Box$
 ### 5th August 2026
 
 I chose to continue working through Baumann's textbook, taking the time to derive the effect of coordinate changes on metric perturbations (as in an exercise in the book).
-<iframe src="/PDFs/Rough%20Notes/Baumann%206.1%20-%201.pdf" width="100%" height="600px" style="border: none;" frameborder="0"></iframe>
 
 {{< pdf src="/PDFs/Rough%20Notes/Baumann%206.1%20-%201.pdf" >}}
 
