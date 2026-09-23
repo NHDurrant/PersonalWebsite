@@ -20,3 +20,11 @@ I am pleased to announce that I have been selected to present a poster on this w
     scrolling="no">
   </iframe>
 </div>
+
+<br>
+<br>
+
+Here is the poster commentary video I made (with much help from James Humphries) made to make this topic more accessible:
+
+{{< youtube lHhi8_qk-q4 >}}
+
