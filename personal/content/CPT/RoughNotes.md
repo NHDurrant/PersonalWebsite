@@ -97,3 +97,18 @@ I also provide a slightly more thorough derivation of the matter evolution equat
 ![](/images/CPT-rough-notes/21-08-26%20rough%20note.jpg)
 
 {{< /admonition >}}
+
+{{< admonition type=note title="30/08/26 - 01/09/26 (iPad, continuing from 21/08/26)" open=false >}}
+
+### 30th, 31st August + 1st September 2026
+
+Term is coming up fast but I still find myself struggling to dedicate as many hours as I would like to this project. Preparing for the ICUR (see the CIB section) and my driving lessons have somewhat halted my productivity. I hope once term starts I will be in a place to put in full days to this.
+
+<iframe src="/PDFs/Rough Notes/Baumann 6.1 - 5.pdf" width="100%" height="600px" style="border: none;" frameborder="0"></iframe>
+
+As presented as an exercise by Baumann, I give the derivations of all the perturbed Ricci tensor components. I have not verified these with mathematica as of yet. I hope to start making more use of Mathematica/Python as the project progresses.
+
+<iframe src="/PDFs/Rough Notes/PerturbedRicciTensor.pdf" width="100%" height="600px" style="border: none;" frameborder="0"></iframe>
+
+
+{{< /admonition >}}
