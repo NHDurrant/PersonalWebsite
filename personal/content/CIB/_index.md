@@ -24,7 +24,7 @@ I am pleased to announce that I have been selected to present a poster on this w
 <br>
 <br>
 
-Here is the poster commentary video I made (with much help from James Humphries) made to make this topic more accessible:
+Here is the poster commentary video I made (with much help from James Humphries) to make this topic more accessible:
 
 {{< youtube lHhi8_qk-q4 >}}
 
