@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>CPT Research on Nathan Durrant</title>
-		<link>http://localhost:1313/cpt/</link>
+		<link>http://localhost:58532/cpt/</link>
 		<description>Recent content in CPT Research on Nathan Durrant</description>
 		<generator>Hugo</generator>
 		<language>en-GB</language>
@@ -10,14 +10,21 @@
 		
 		
 		
-			<lastBuildDate>Mon, 03 Aug 2026 13:11:39 +0100</lastBuildDate>
+			<lastBuildDate>Fri, 09 Oct 2026 12:38:49 +0100</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/cpt/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:58532/cpt/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Weekly Reports</title>
+				<link>http://localhost:58532/cpt/weeklyreports/</link>
+				<pubDate>Fri, 09 Oct 2026 12:38:49 +0100</pubDate>
+				<guid>http://localhost:58532/cpt/weeklyreports/</guid>
+				<description>&lt;p&gt;My aim is to write up, in LaTeX, a full report of my reading and any results I have obtained between each meeting with my supervisor. This should then provide a comprehensive source to use when it comes to writing my final dissertation. I will provide links to all the PDFs as I go:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:58532/PDFs/Weekly%20Reports/Week1.pdf&#34; rel=&#34;&#34;&gt;Week 1 (05/10/25 - 11/10/25)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
 			<item>
 				<title>Rough Notes</title>
-				<link>http://localhost:1313/cpt/roughnotes/</link>
+				<link>http://localhost:58532/cpt/roughnotes/</link>
 				<pubDate>Mon, 03 Aug 2026 13:11:39 +0100</pubDate>
-				<guid>http://localhost:1313/cpt/roughnotes/</guid>
+				<guid>http://localhost:58532/cpt/roughnotes/</guid>
 				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This page will be used to keep some (as full as possible) documentation of my hand-written note taking throughout this project. This will be on a range of media; my preferred canvas is usually a blackboard or on my iPad.&lt;/p&gt;&#xA;&lt;p&gt;One will probably &lt;em&gt;not&lt;/em&gt; be able to follow these notes as in the way you would a usual course, but I hope you may find some help in seeing how I went about the reading for my dissertation.&lt;/p&gt;</description>
 			</item>
 	</channel>
