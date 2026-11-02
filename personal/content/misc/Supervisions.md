@@ -6,4 +6,6 @@ title = 'Supervisions (1st Year MMathPhys Students)'
 
 ## Notes
 
-- [Week 2 Supervision](/PDFs/Supervisions/Supervision2.pdf)
+- [Week 3 Supervision](/PDFs/Supervisions/Supervision2.pdf)
+
+- [Week 4 Supervision](/PDFs/Supervisions/Supervision3.pdf)
