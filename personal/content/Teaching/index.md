@@ -32,7 +32,7 @@ The following content is specifically aimed at my supervisees, but may hold some
 
 ##### Recommended Textbooks + Extra Resources
 
-There are plenty strong textbooks on Real Analysis that will suit any extra revision outside of the provided lecture notes and exercise sheets. I recommend that students search for these themselves such that they get a better feel for what kind of textbook works best for them. This will be helpful as one progresses through one's degree.
+There are plenty of strong textbooks on Real Analysis that will suit any extra revision outside of the provided lecture notes and exercise sheets. I recommend that students search for these themselves such that they get a better feel for what kind of textbook works best for them. This will be helpful as one progresses through one's degree.
 
 A textbook that I personally found useful was Bartle and Sherbert's *Introduction to Real Analysis*. Indeed, for Warwick students, this also includes some overlap with content covered in Sets and Numbers. For Warwick students, the library link is: [Introduction to Real Analysis](https://go.exlibris.link/txccmr9J)
 
