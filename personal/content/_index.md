@@ -7,7 +7,7 @@ title = "Nathan Durrant"
 # About Me
 
 Hi, I'm Nathan. I am currently studying a MathPhys degree at the University
-of Warwick. The 26/27 academic year will be my Masters year. I am eager to pursue a PhD once I have completed my course.
+of Warwick. The 26/27 academic year will be my Masters year. I am eager to pursue a PhD once I have completed my course, and am currently in the application stage. 
 
 I plan to use this website to document my academic work (both research and teaching) and ocasionally my extracurricular interests. 
 
