@@ -11,3 +11,9 @@ My aim is to write up, in LaTeX, a full report of my reading and any results I h
 - [Week 2 (12/10/26 - 18/10/26)](/PDFs/Weekly%20Reports/Week2.pdf)
 
 - [Week 3 (19/10/26 - 25/10/26)](/PDFs/Weekly%20Reports/Week3.pdf)
+
+- [Week 4 (26/10/26 - 01/11/26)](/PDFs/Weekly%20Reports/Week4.pdf)
+
+- [Week 5 (02/11/26 - 08/11/26)](/PDFs/Weekly%20Reports/Week5.pdf)
+
+- [Week 6+7 (09/11/26 - 22/11/26)](/PDFs/Weekly%20Reports/Week6-7.pdf)
