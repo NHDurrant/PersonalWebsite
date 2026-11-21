@@ -4,8 +4,96 @@
 // ==============================
 
 $admonition-colors-overrides: (
-  note: #ef16ab,      // Make 'note' admonitions blue
+  note: #f98214,      // Make 'note' admonitions blue
   tip: #28a745,       // Make 'tip' admonitions green
   warning: #ffc107,   // Make 'warning' admonitions yellow
   danger: #dc3545
 );
+
+/* Allow dropdowns to extend below the header bar */
+#header-desktop,
+#header-desktop .header-wrapper,
+#header-desktop .menu,
+#header-desktop .menu-inner {
+  overflow: visible !important;
+}
+
+/* Desktop Header Dropdown */
+#header-desktop .menu .menu-item.dropdown {
+  position: relative;
+  display: inline-block;
+
+  > a.menu-link {
+    &.active {
+      font-weight: bold;
+      color: $header-hover-color;
+
+      [theme=dark] & {
+        color: $header-hover-color-dark;
+      }
+    }
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    min-width: 165px;
+    background-color: $header-background-color;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    padding: 0.4rem 0;
+    z-index: 9999;
+
+    [theme=dark] & {
+      background-color: $header-background-color-dark;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.45);
+    }
+
+    a.menu-link {
+      display: block;
+      padding: 0.4rem 1rem;
+      margin: 0;
+      white-space: nowrap;
+      line-height: 1.5;
+
+      &.active {
+        font-weight: bold;
+      }
+    }
+  }
+
+  &:hover .dropdown-content,
+  &:focus-within .dropdown-content {
+    display: block;
+  }
+}
+
+/* Mobile Menu Indentation */
+#header-mobile .menu .menu-item.dropdown .dropdown-content {
+  padding-left: 1.25rem;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Light mode overrides for "note" admonition */
+[theme=light] .admonition.note {
+  border-left-color: #ffa200;
+  background-color: rgba(182, 180, 175, 0.1);
+
+  .admonition-title {
+    color: #3b3b3b;
+    background-color: rgba(255, 196, 129, 0.25);
+  }
+}
+
+/* Dark mode overrides for "note" admonition */
+[theme=dark] .admonition.note {
+  border-left-color: #ffa200;
+  background-color: rgba(0, 0, 0, 0.134);
+
+  .admonition-title {
+    background-color: rgba(110, 110, 110, 0.25);
+  }
+}
