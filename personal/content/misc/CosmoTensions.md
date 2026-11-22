@@ -6,7 +6,7 @@ title = 'Cosmological Tensions: A Tiered Introduction'
 
 This is meant to be a brief overview of the Cosmological Tensions, for the non-expert. It will be segmented into levels, each of which are slightly more technical than the last. Those with no expertise or prior knowlegde of Cosmology should work through this for as long as they feel comfortable. 
 
-This is predominantly a resource for my family and friends, whom are interested in what I will (potentially) pursue for my PhD starting in 2027. I hope to add more levels over time.
+This is predominantly a resource those in my family and friends whom are interested in what I will (potentially) pursue for my PhD starting in 2027. I hope to add more levels over time.
 
 ## Level 0: Introduction
 
@@ -32,7 +32,7 @@ In the next section, I will summarise what this theory is, and give some more de
 
 ## Level 1: $\Lambda \text{CDM}$, The Expanding Universe, and Introducing the Hubble Constant and Tension
 
-So, what is this overarching theory that has been brought into question? We call it $\Lambda \text{CDM}$ where 'CDM' stands for Cold Dark Matter. Let's briskly skip over what this means for now and leave the explanation to a later level. This model allows us to make a vast number of predictions about what we *ought* to see based on some assumptions -- more on this later -- when we make our observations. It has had unprecedented success in Cosmology, with it well explaining many phenomena we have seen in the Universe. It is by far the most common such model used in research today. 
+So, what is this overarching theory that has been brought into question? We call it $\Lambda \text{CDM}$ where $\Lambda$ is the Greek letter Lambda (pronounced LAM-duh) and 'CDM' stands for Cold Dark Matter. Let's briskly skip over what all this means for now and leave the explanation to a later level. This model allows us to make a vast number of predictions about what we *ought* to see based on some assumptions -- more on this later -- when we make our observations. It has had unprecedented success in Cosmology, with it well explaining many phenomena we have seen in the Universe. It is by far the most common such model used in research today. 
 
 When an ambulance whizzes past you, sirens on, you hear the pitch of the sirens drop off as it moves further away. This is called the Doppler shift. A good example, using a car horn can be found [here](https://youtu.be/a3RfULw7aAY?si=BKXd2AEGzuiQZu63). Sound is a type of wave; that is, it moves from one place to another at a finite speed, from source to observer. Interestingly, light is also a wave and also has a finite, though very *very* fast, speed and can thus also have its 'pitch' (from hereon called its 'frequency') lowered if the source is moving away from us (the observer). 
 
@@ -49,3 +49,5 @@ Before one jumps to the conclusion that this is the downfall of the model, it is
 In the next section, I will formalise what we mean by these different types of measurements and explain how we broadly classify 'age' in the universe.
 
 ## Level 2: Early and Late Time Universe
+
+TBC
