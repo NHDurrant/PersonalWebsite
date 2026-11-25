@@ -4,7 +4,9 @@ draft = false
 title = 'Teaching'
 +++
 
-I intend to document any teaching activities on this page. This will include resources I have made, lecture notes (if applicable) and recommendations for my students. 
+I intend to document any teaching activities, past and present, on this page. This will include resources I have made, lecture notes (if applicable) and recommendations for my students.
+
+Please feel free to contact me if you have any questions about the resources I provide, or would like to discuss approaches to teaching STEM subjects more generally. I am a firm believer in continually adapting our teaching methods to keep up with the changing times.
 
 {{< admonition type=note title="1st Year MathPhys Students (Warwick, 2026/27)" open=false >}}
 
