@@ -30,6 +30,8 @@ The following content is specifically aimed at my supervisees, but may hold some
 
 - [Week 7 Supervision](/PDFs/Supervisions/SupervisionWk7.pdf)
 
+- [Week 8 Supervision](/PDFs/Supervisions/SupervisionWk8.pdf) - Note: this makes extensive use of resources available to Warwick students only... sorry. 
+
 ##### Recommended Textbooks + Extra Resources
 
 There are plenty of strong textbooks on Real Analysis that will suit any extra revision outside of the provided lecture notes and exercise sheets. I recommend that students search for these themselves such that they get a better feel for what kind of textbook works best for them. This will be helpful as one progresses through one's degree.
@@ -52,8 +54,8 @@ I would generally advise to lay out your revision in the following way:
 1. Starting back in Week 1, learn all the definitions that will be applicable to the first problem sheet. Then slowly work through the proofs and ensure you understand each step (no memorisation yet).
 2. Complete the problem sheet, making note of anything you use repeatedly (therefore definitely should remember!). Try to keep the answers as simple as possible -- the simpler the better in an exam!
 3. Continue onto the next sheet (learn the next subset of the definitions, understand the proofs), and so on until they are all done.
-4. Attempt a past paper (Warwick students can find these [here](https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/archives/) in a open-book fashion, many with worked solutions) to estimate your current level. Focus on seeing how the results from the course are being examined and used to prove unseen questions. 
-5. Work on your weak points then attempt another past paper. Keep repeating this process, trying to use less of your resources each time. Make sure you save at least one paper (usually the most recent) to be done fully under exam conditions.
+4. Attempt a past paper (Warwick students can find these [here](https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/archives/), many with worked solutions) in a open-book fashion to estimate your current level. Focus on seeing how the results from the course are being examined and used to prove unseen questions. 
+5. Work on your weak points then attempt another past paper. Keep repeating this process, trying to use less of ydour resources each time. Make sure you save at least one paper (usually the most recent) to be done fully under exam conditions.
 6. If time permits, try to memorise each proof in the lecture notes as it is written there. This saves trying to work them out on the spot. 
 7. Go smash the exam! 
 
